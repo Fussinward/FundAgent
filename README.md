@@ -51,5 +51,7 @@ FundAgent/
 ├── test_kimi/          # Kimi API 测试脚本
 └── README.md
 ```
+## TODO
 
-- [ ] 1
+- [ ] 对prototype作eval
+- [ ] 改进
